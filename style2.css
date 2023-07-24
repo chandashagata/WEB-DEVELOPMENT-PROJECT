@@ -1,0 +1,112 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+
+  .back{
+    text-align: left;
+    margin-left: 30px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+    font-size: smaller;
+  }
+
+  .mostselling{
+    margin-left: 30px;
+  }
+
+  .b1{
+    text-align: center;
+    border-radius: 0%;
+    border: white;
+    font-size: medium;
+    cursor: pointer;
+  }
+
+  .container3{
+    display: flex;
+  }
+
+  .box3{
+    flex: 1;
+    padding: 40px 30px ;
+    border: 5px solid #f5ff3c;
+    width: 300px;
+    height: 450px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    background-color: #000000;
+  }
+
+  .eng1{
+    float: center;
+  }
+  .eng2{
+    float: center;
+  }
+  .eng3{
+    float: center;
+  }
+
+  .container4{
+    display: flex;
+  }
+
+  .box4{
+    flex: 1;
+    padding: 40px 30px ;
+    border: 5px solid #f5ff3c;
+    width: 300px;
+    height: 450px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    background-color: #000000;
+  }
+
+  .eng4{
+    float: center;
+  }
+
+  .eng5{
+    float: center;
+  }
+
+  .eng6{
+    float: center;
+  }
+
+  .container5{
+    display: flex;
+  }
+
+  .box5{
+    flex: 1;
+    padding: 40px 30px ;
+    border: 5px solid #f5ff3c;
+    width: 300px;
+    height: 450px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    background-color: #000000;
+  }
+
+  .foot{
+    text-align: center;
+    padding: 5px;
+    margin-bottom: 5px;
+    background-color: #a5acac;
+  }
+
+  .head{
+    padding: 80px 80px;
+    background-color: #e4eaea;
+    color: black;
+  }
+  .products{
+    text-align: center;
+    text-decoration: underline;
+  }
